@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11415.280 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game_engine.sln", "game_engine.sln.vcxproj", "{9792A251-BB92-4950-844B-E52208E8AFF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Debug|ARM64.Build.0 = Debug|ARM64
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Debug|x64.ActiveCfg = Debug|x64
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Debug|x64.Build.0 = Debug|x64
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Debug|x86.Build.0 = Debug|Win32
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Release|ARM64.ActiveCfg = Release|ARM64
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Release|ARM64.Build.0 = Release|ARM64
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Release|x64.ActiveCfg = Release|x64
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Release|x64.Build.0 = Release|x64
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Release|x86.ActiveCfg = Release|Win32
+		{9792A251-BB92-4950-844B-E52208E8AFF4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B19414-1B14-4990-8F95-69733A686B62}
+	EndGlobalSection
+EndGlobal

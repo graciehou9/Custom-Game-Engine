@@ -1,0 +1,2 @@
+/opt/homebrew/Cellar/emscripten/5.0.6/libexec/emar qc libEngineCore.a CMakeFiles/EngineCore.dir/Actor.cpp.o CMakeFiles/EngineCore.dir/ActorTemplateDB.cpp.o CMakeFiles/EngineCore.dir/AudioDB.cpp.o CMakeFiles/EngineCore.dir/Engine.cpp.o CMakeFiles/EngineCore.dir/ImageDB.cpp.o CMakeFiles/EngineCore.dir/Input.cpp.o CMakeFiles/EngineCore.dir/ParticleSystem.cpp.o CMakeFiles/EngineCore.dir/SceneDB.cpp.o CMakeFiles/EngineCore.dir/TextDB.cpp.o
+/opt/homebrew/Cellar/emscripten/5.0.6/libexec/emranlib libEngineCore.a

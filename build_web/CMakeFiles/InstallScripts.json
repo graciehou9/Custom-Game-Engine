@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/graciehou/eecs498/hw3/game_engine_ghou/build_web/cmake_install.cmake",
+		"/Users/graciehou/eecs498/hw3/game_engine_ghou/build_web/src/cmake_install.cmake",
+		"/Users/graciehou/eecs498/hw3/game_engine_ghou/build_web/gea/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
