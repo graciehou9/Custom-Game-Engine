@@ -1,3 +1,3 @@
-# A miniature game engine created by ghou
+# A custom game engine created
 
-testing change
+Supports CMake!
