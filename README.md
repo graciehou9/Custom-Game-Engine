@@ -1,3 +1,3 @@
-# A custom game engine created
+# A custom game engine
 
 Supports CMake!
