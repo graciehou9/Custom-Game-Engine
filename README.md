@@ -1,7 +1,5 @@
 # A custom game engine
 
-Supports CMake!
-
 A C++ game engine with equal functionality to Unity. Integrates Lua-driven components, Box2D physics, and SDL2 rendering/audio. This repository contains the engine core, resource loaders, and example game data (scenes, actor templates, images, audio).
 
  **Features**
